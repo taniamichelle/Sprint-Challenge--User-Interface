@@ -114,6 +114,7 @@ button {
 .about working {
     width: 50%;
 }
+
 .top {
     display: flex;
     flexwrap: wrap;
@@ -134,7 +135,7 @@ button {
     height: 300px;
     border: 2px solid red;
 }
-
+/* 
 .work {
     display: flex;
     flexwrap: wrap;
@@ -143,9 +144,9 @@ button {
     width: 50%;
     height: 600px;
     border: 2px solid red;
-}
+} */
 
-.bottom-content {
+.bottom {
     display: flex;
     flexwrap: wrap;
     justify-content: space-evenly;
@@ -153,7 +154,7 @@ button {
     height: 400px;
     border: 2px solid blue;
 }
-.places {
+/* .places {
     display: flex;
     flexwrap: wrap;
     margin: 10px;
@@ -170,7 +171,7 @@ button {
     width: 50%;
     height: 600px;
     border: 2px solid blue;
-}
+} */
 
 footer {
     width: 100%;
