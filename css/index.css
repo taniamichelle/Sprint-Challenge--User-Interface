@@ -95,13 +95,6 @@ header a {
     margin-bottom: 20px;
 }
 
-hr {
-        border: 1px dashed gray;
-        width: 100%;
-        margin: auto;
-        margin-top: 5%;
-        margin-bottom: 5%;
-}
 
 .top-content {
     display: flex;
