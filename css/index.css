@@ -129,10 +129,8 @@ header a {
     justify-content: space-evenly;
     align-content: center;
     text-align: center;
-    margin: 10px;
-    padding: 10px;
-    color: white;
-    
+    margin-top: 0 auto;
+    color: white;    
 }
 
 .middle-content .boxes .box {
@@ -144,7 +142,6 @@ header a {
     display: flex;
     align-items: center;
     justify-content: center;
-    
 }
 
 .box1 {
@@ -153,7 +150,6 @@ header a {
     padding: 10px;
     width: 100px;
     height: 100px;
-    
 }
 
 .box2 {
@@ -161,8 +157,7 @@ header a {
     margin: 20px;
     padding: 10px;
     width: 100px;
-    height: 100px;
-   
+    height: 100px;  
 }
 
 .box3 {
@@ -170,8 +165,7 @@ header a {
     margin: 20px;
     padding: 10px;
     width: 100px;
-    height: 100px;
-   
+    height: 100px;  
 }
 
 .box4 {
@@ -180,7 +174,6 @@ header a {
     padding: 10px;
     width: 100px;
     height: 100px;
-  
 }
 
 .box5 {
@@ -188,8 +181,7 @@ header a {
     margin: 20px;
     padding: 10px;
     width: 100px;
-    height: 100px;
-    
+    height: 100px; 
 }
 
 .box6 {
@@ -197,8 +189,7 @@ header a {
     margin: 20px;
     padding: 10px;
     width: 100px;
-    height: 100px;
-   
+    height: 100px; 
 }
 
 .box7 {
@@ -207,7 +198,6 @@ header a {
     padding: 10px;
     width: 100px;
     height: 100px;
- 
 }
 
 .box8 {
@@ -215,8 +205,7 @@ header a {
     margin: 20px;
     padding: 10px;
     width: 100px;
-    height: 100px;
-    
+    height: 100px;   
 }
 
 .box9 {
@@ -224,8 +213,7 @@ header a {
     margin: 20px;
     padding: 10px;
     width: 100px;
-    height: 100px;
-   
+    height: 100px;   
 }
 
 .box10 {
@@ -233,8 +221,7 @@ header a {
     margin: 20px;
     padding: 10px;
     width: 100px;
-    height: 100px;
-   
+    height: 100px; 
 }
 
 .bottom-content {
